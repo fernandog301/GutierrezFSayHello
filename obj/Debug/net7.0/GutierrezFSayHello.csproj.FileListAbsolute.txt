@@ -1,0 +1,66 @@
+C:\Users\ferna\Code stack\Week12\GutierrezFSayHello\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ferna\Code stack\Week12\GutierrezFSayHello\bin\Debug\net7.0\appsettings.json
+C:\Users\ferna\Code stack\Week12\GutierrezFSayHello\bin\Debug\net7.0\GutierrezFSayHello.exe
+C:\Users\ferna\Code stack\Week12\GutierrezFSayHello\bin\Debug\net7.0\GutierrezFSayHello.deps.json
+C:\Users\ferna\Code stack\Week12\GutierrezFSayHello\bin\Debug\net7.0\GutierrezFSayHello.runtimeconfig.json
+C:\Users\ferna\Code stack\Week12\GutierrezFSayHello\bin\Debug\net7.0\GutierrezFSayHello.dll
+C:\Users\ferna\Code stack\Week12\GutierrezFSayHello\bin\Debug\net7.0\GutierrezFSayHello.pdb
+C:\Users\ferna\Code stack\Week12\GutierrezFSayHello\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ferna\Code stack\Week12\GutierrezFSayHello\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\ferna\Code stack\Week12\GutierrezFSayHello\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ferna\Code stack\Week12\GutierrezFSayHello\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ferna\Code stack\Week12\GutierrezFSayHello\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ferna\Code stack\Week12\GutierrezFSayHello\obj\Debug\net7.0\GutierrezFSayHello.csproj.AssemblyReference.cache
+C:\Users\ferna\Code stack\Week12\GutierrezFSayHello\obj\Debug\net7.0\GutierrezFSayHello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\Code stack\Week12\GutierrezFSayHello\obj\Debug\net7.0\GutierrezFSayHello.AssemblyInfoInputs.cache
+C:\Users\ferna\Code stack\Week12\GutierrezFSayHello\obj\Debug\net7.0\GutierrezFSayHello.AssemblyInfo.cs
+C:\Users\ferna\Code stack\Week12\GutierrezFSayHello\obj\Debug\net7.0\GutierrezFSayHello.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Code stack\Week12\GutierrezFSayHello\obj\Debug\net7.0\GutierrezFSayHello.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ferna\Code stack\Week12\GutierrezFSayHello\obj\Debug\net7.0\GutierrezFSayHello.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ferna\Code stack\Week12\GutierrezFSayHello\obj\Debug\net7.0\staticwebassets\msbuild.GutierrezFSayHello.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ferna\Code stack\Week12\GutierrezFSayHello\obj\Debug\net7.0\staticwebassets\msbuild.build.GutierrezFSayHello.props
+C:\Users\ferna\Code stack\Week12\GutierrezFSayHello\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GutierrezFSayHello.props
+C:\Users\ferna\Code stack\Week12\GutierrezFSayHello\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GutierrezFSayHello.props
+C:\Users\ferna\Code stack\Week12\GutierrezFSayHello\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ferna\Code stack\Week12\GutierrezFSayHello\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ferna\Code stack\Week12\GutierrezFSayHello\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ferna\Code stack\Week12\GutierrezFSayHello\obj\Debug\net7.0\scopedcss\bundle\GutierrezFSayHello.styles.css
+C:\Users\ferna\Code stack\Week12\GutierrezFSayHello\obj\Debug\net7.0\GutierrezFSayHello.csproj.CopyComplete
+C:\Users\ferna\Code stack\Week12\GutierrezFSayHello\obj\Debug\net7.0\GutierrezFSayHello.dll
+C:\Users\ferna\Code stack\Week12\GutierrezFSayHello\obj\Debug\net7.0\refint\GutierrezFSayHello.dll
+C:\Users\ferna\Code stack\Week12\GutierrezFSayHello\obj\Debug\net7.0\GutierrezFSayHello.pdb
+C:\Users\ferna\Code stack\Week12\GutierrezFSayHello\obj\Debug\net7.0\GutierrezFSayHello.genruntimeconfig.cache
+C:\Users\ferna\Code stack\Week12\GutierrezFSayHello\obj\Debug\net7.0\ref\GutierrezFSayHello.dll
+C:\Users\Halley\Desktop\GutierrezFSayHello\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Halley\Desktop\GutierrezFSayHello\bin\Debug\net7.0\appsettings.json
+C:\Users\Halley\Desktop\GutierrezFSayHello\bin\Debug\net7.0\GutierrezFSayHello.exe
+C:\Users\Halley\Desktop\GutierrezFSayHello\bin\Debug\net7.0\GutierrezFSayHello.deps.json
+C:\Users\Halley\Desktop\GutierrezFSayHello\bin\Debug\net7.0\GutierrezFSayHello.runtimeconfig.json
+C:\Users\Halley\Desktop\GutierrezFSayHello\bin\Debug\net7.0\GutierrezFSayHello.dll
+C:\Users\Halley\Desktop\GutierrezFSayHello\bin\Debug\net7.0\GutierrezFSayHello.pdb
+C:\Users\Halley\Desktop\GutierrezFSayHello\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Halley\Desktop\GutierrezFSayHello\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Halley\Desktop\GutierrezFSayHello\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Halley\Desktop\GutierrezFSayHello\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Halley\Desktop\GutierrezFSayHello\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Halley\Desktop\GutierrezFSayHello\obj\Debug\net7.0\GutierrezFSayHello.csproj.AssemblyReference.cache
+C:\Users\Halley\Desktop\GutierrezFSayHello\obj\Debug\net7.0\GutierrezFSayHello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halley\Desktop\GutierrezFSayHello\obj\Debug\net7.0\GutierrezFSayHello.AssemblyInfoInputs.cache
+C:\Users\Halley\Desktop\GutierrezFSayHello\obj\Debug\net7.0\GutierrezFSayHello.AssemblyInfo.cs
+C:\Users\Halley\Desktop\GutierrezFSayHello\obj\Debug\net7.0\GutierrezFSayHello.csproj.CoreCompileInputs.cache
+C:\Users\Halley\Desktop\GutierrezFSayHello\obj\Debug\net7.0\GutierrezFSayHello.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Halley\Desktop\GutierrezFSayHello\obj\Debug\net7.0\GutierrezFSayHello.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Halley\Desktop\GutierrezFSayHello\obj\Debug\net7.0\staticwebassets\msbuild.GutierrezFSayHello.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Halley\Desktop\GutierrezFSayHello\obj\Debug\net7.0\staticwebassets\msbuild.build.GutierrezFSayHello.props
+C:\Users\Halley\Desktop\GutierrezFSayHello\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.GutierrezFSayHello.props
+C:\Users\Halley\Desktop\GutierrezFSayHello\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.GutierrezFSayHello.props
+C:\Users\Halley\Desktop\GutierrezFSayHello\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Halley\Desktop\GutierrezFSayHello\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Halley\Desktop\GutierrezFSayHello\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Halley\Desktop\GutierrezFSayHello\obj\Debug\net7.0\scopedcss\bundle\GutierrezFSayHello.styles.css
+C:\Users\Halley\Desktop\GutierrezFSayHello\obj\Debug\net7.0\GutierrezFSayHello.csproj.CopyComplete
+C:\Users\Halley\Desktop\GutierrezFSayHello\obj\Debug\net7.0\GutierrezFSayHello.dll
+C:\Users\Halley\Desktop\GutierrezFSayHello\obj\Debug\net7.0\refint\GutierrezFSayHello.dll
+C:\Users\Halley\Desktop\GutierrezFSayHello\obj\Debug\net7.0\GutierrezFSayHello.pdb
+C:\Users\Halley\Desktop\GutierrezFSayHello\obj\Debug\net7.0\GutierrezFSayHello.genruntimeconfig.cache
+C:\Users\Halley\Desktop\GutierrezFSayHello\obj\Debug\net7.0\ref\GutierrezFSayHello.dll
